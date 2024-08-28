@@ -18,6 +18,7 @@ IT KMITL Software Engineer
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-171b24?style=for-the-badge&logo=web3dotjs&logoColor=White)
+![Solidity](https://img.shields.io/badge/Solidity-cc6b10?style=for-the-badge&logo=solidity&logoColor=White)
 ![Go-Ethereum](https://img.shields.io/badge/Go%20Ethereum-27a12f?style=for-the-badge&logo=ethereum&logoColor=White)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
