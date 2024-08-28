@@ -20,6 +20,7 @@ IT KMITL Software Engineer
 ![Web3.js](https://img.shields.io/badge/Web3.js-171b24?style=for-the-badge&logo=web3dotjs&logoColor=White)
 ![Solidity](https://img.shields.io/badge/Solidity-cc6b10?style=for-the-badge&logo=solidity&logoColor=White)
 ![Go-Ethereum](https://img.shields.io/badge/Go%20Ethereum-27a12f?style=for-the-badge&logo=ethereum&logoColor=White)
+![VMware](https://img.shields.io/badge/VMware-28a4bf?style=for-the-badge&logo=vmware&logoColor=White)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=Docker&logoColor=White)
