@@ -1,6 +1,6 @@
 # Natchapol Nunthasunti
 IT KMITL Software Engineer
- 
+NOW @ SCB Software Engineer
 
 ## Badges
 
